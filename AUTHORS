@@ -1,0 +1,19 @@
+The people behind the generation and making of the simple shell and its code is 
+- Wandile-umuzi Maseko
+- Siwaphiwe Hlazo
+
+Wandile-umuzi is responisble following codes
+~ execute.c
+~ fetch_env.c
+~ parsing.c
+~ inputs.c
+~ shell.c
+~ getline.c
+~ main.h
+
+Siwaphiwe Hlazo is responsible for the following code
+~ shell.c
+~ main.h
+~ README.md
+~ AUTHORS
+~ handle_errors.c
